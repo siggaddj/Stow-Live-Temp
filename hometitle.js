@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "Telephone Creation"
+var txt = "Stow Live"
 
 var speed = 200;
 
